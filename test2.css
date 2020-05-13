@@ -3,7 +3,8 @@
 }
 
 .ds4.white .face {
-    filter: grayscale() brightness(2.8);
+   /* filter: grayscale() brightness(2.8);*/
+   background: url('https://ibrahimatcha.github.io/dpadmod.svgz');
 }
 .ds4.white .face.pressed {
     filter: none;
