@@ -7,7 +7,7 @@
    background-image: url('https://ibrahimatcha.github.io/dpadmod.svgz');
 }
 .ds4.white .face.pressed {
-    filter: brightness(0.5);
+    filter: brightness(0.7);
     background-position-y: 0;
 }
 
