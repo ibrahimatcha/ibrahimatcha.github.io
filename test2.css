@@ -7,7 +7,7 @@
    background-image: url('https://ibrahimatcha.github.io/dpadmod.svgz');
 }
 .ds4.white .face.pressed {
-    filter: brightness(0.7);
+    filter: brightness(0.65);
     background-position-y: 0;
 }
 
@@ -47,7 +47,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: rgba(255, 255, 255, 1);
+    background: rgba(12, 196, 212, 1);
     border-radius: 50%;
     transform: translateY(1px);
 }
