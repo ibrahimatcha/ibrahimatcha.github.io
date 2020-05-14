@@ -69,3 +69,7 @@
 	border-radius: 50%;
     transform: translateY(1px);
 }
+
+.ds4.white .disconnected{
+	background: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity/disconnectedtrinity.svgz');
+}
