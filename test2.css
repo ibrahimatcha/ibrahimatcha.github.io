@@ -25,6 +25,10 @@
 	background-position-x: -192px;
 }
 
+.ds4.white .stick.pressed.stickLetters {
+    filter: brightness(1);
+}
+
 .ds4.white .button {
 	filter: none;
     background-image: url('https://ibrahimatcha.github.io/facemod.svgz');
