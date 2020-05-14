@@ -43,6 +43,14 @@
     filter: brightness(0.1) sepia() contrast(1.3) brightness(25);
 }
 
+.ds4.white .bumper{
+    background-image: url('https://ibrahimatcha.github.io/bumpermod.svgz');
+}
+
+.ds4.white .trigger{
+    background-image: url('https://ibrahimatcha.github.io/triggersmod.svgz');
+}
+
 .ds4.white .bumper.pressed, .ds4.white .trigger {
     filter: brightness(0.65);
 }
