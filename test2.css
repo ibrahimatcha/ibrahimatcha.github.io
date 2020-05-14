@@ -12,10 +12,10 @@
 }
 
 .ds4.white .stick {
-    background: #f7f7f7;
+    filter: grayscale() brightness(2.8);
 }
 .ds4.white .stick.pressed {
-    background: 0CC4D4;
+    filter: none;
     background-position-x: 0 !important;
 }
 
