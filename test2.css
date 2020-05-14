@@ -14,9 +14,13 @@
 .ds4.white .stick {
     background-image: url('https://ibrahimatcha.github.io/sticksmod.svgz');
 }
-.ds4.white .stick.pressed {
-    filter: none;
-    background-position-x: 0 !important;
+
+.ds4.white .stick.left.pressed {
+    background-position-x: -96px;
+}
+
+.ds4.white .stick.right.pressed {
+    background-position-x: -192px;
 }
 
 .ds4.white .button {
