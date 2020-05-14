@@ -39,6 +39,7 @@
 	.st32{fill:#F7F7F7;}
 	.st33{display:inline;opacity:8.000000e-002;}
 	.circlehole{fill:#0CC4D4;}
+	.startandback{fill:#0CC4D4;}
 </style>
 <pattern  x="-556" y="840" width="71" height="71" patternUnits="userSpaceOnUse" id="SVGID_1_" viewBox="0 -71 71 71" style="overflow:visible;">
 	<g>
