@@ -20,10 +20,10 @@
 }
 
 .ds4.white .button {
-    filter: invert(1) hue-rotate(180deg);
+    
 }
 .ds4.white .button.pressed {
-    filter: sepia() invert(1) brightness(3) hue-rotate(120deg) contrast(0.8);
+    
 }
 
 .ds4.white .start {
