@@ -30,10 +30,6 @@
     background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity/facetrinity.svgz');
 }
 
-/*.ds4.white .button.pressed {
-    filter: brightness(0.65);
-}*/
-
 .ds4.white .start {
     transform: translate(0.5px);
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity/starttrinity.svgz');
