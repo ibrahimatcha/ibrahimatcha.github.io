@@ -20,10 +20,11 @@
 }
 
 .ds4.white .button {
+	filter: none;
     background-image: url('https://ibrahimatcha.github.io/facemod.svgz');
 }
 .ds4.white .button.pressed {
-    
+    filter: brightness(0.65);
 }
 
 .ds4.white .start {
