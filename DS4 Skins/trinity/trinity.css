@@ -50,9 +50,9 @@
 	background: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity/touchpadtrinity.png');
 }
 
-/*.ds4.white .touchpad.pressed {
+.ds4.white .touchpad.pressed {
     filter: brightness(0.65);
-}*/
+}
 
 .ds4.white .bumper{
     background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity/bumpertrinity.svgz');
@@ -62,7 +62,7 @@
     background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity/triggerstrinity.svgz');
 }
 
-.ds4.white .bumper.pressed, .ds4.white .trigger, .ds4.white .touchpad.pressed, .ds4.white .button.pressed  {
+.ds4.white .bumper.pressed, .ds4.white .trigger, .ds4.white .button.pressed  {
     filter: brightness(0.65);
 }
 
