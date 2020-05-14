@@ -45,8 +45,12 @@
     border-radius: 50px;
 }
 
+.ds4.white .touchpad{
+	background: url('https://ibrahimatcha.github.io/touchpadmodjay.png');
+}
+
 .ds4.white .touchpad.pressed {
-    background: url('https://ibrahimatcha.github.io/touchpadmodjay.png');
+    /*background: url('https://ibrahimatcha.github.io/touchpadmodjay.png');*/
     filter: brightness(0.65);
 }
 
