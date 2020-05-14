@@ -48,7 +48,8 @@
 }
 
 .ds4 .meta.pressed {
-    background: rgba(12, 196, 212, 1);
+	filter: brightness(0.65);
+    /*background: rgba(12, 196, 212, 1);*/
     border-radius: 50%;
     transform: translateY(1px);
 }
