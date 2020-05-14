@@ -11,11 +11,11 @@
     background-position-y: 0;
 }
 
-.ds4.white .stick {;
-    filter: grayscale() brightness(2.8);
+.ds4.white .stick {
+    background: #f7f7f7;
 }
 .ds4.white .stick.pressed {
-    filter: none;
+    background: 0CC4D4;
     background-position-x: 0 !important;
 }
 
