@@ -3,12 +3,10 @@
 }
 
 .ds4.white .face {
-   filter: none;
    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/dpadtrinity2.svgz');
 }
 .ds4.white .face.pressed {
-    filter: brightness(0.65);
-    background-position-y: 0;
+    background-position-y: 52px;
 }
 
 .ds4.white .stick {
@@ -16,18 +14,19 @@
 }
 
 .ds4.white .stick.pressed.left {
-    filter: brightness(0.65);
 	background-position-x: -96px;
 }
 
 .ds4.white .stick.pressed.right {
-    filter: brightness(0.65);
 	background-position-x: -192px;
 }
 
 .ds4.white .button {
-	filter: none;
     background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/facetrinity2.svgz');
+}
+
+.ds4.white .button.pressed  {
+    background-position-y: 55px;
 }
 
 .ds4.white .start {
@@ -38,7 +37,6 @@
     transform: translate(-0.5px);
 }
 .ds4.white .start.pressed, .ds4 .back.pressed {
-    filter: brightness(0.65);
     border-radius: 50px;
 }
 
@@ -60,10 +58,6 @@
 
 .ds4.white .trigger{
     background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/triggerstrinity2.svgz');
-}
-
-.ds4.white .button.pressed  {
-    filter: brightness(0.65);
 }
 
 .ds4 .meta.pressed{
