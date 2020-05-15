@@ -39,6 +39,8 @@
 	.st33{display:inline;opacity:8.000000e-002;}
 	.circlehole{fill:#0CC4D4;}
 	.startandback{fill:#0CC4D4;}
+	.tinycircle{fill:#11cbd2;}
+	
 </style>
 <pattern  x="-556" y="840" width="71" height="71" patternUnits="userSpaceOnUse" id="SVGID_1_" viewBox="0 -71 71 71" style="overflow:visible;">
 	<g>
@@ -237,20 +239,20 @@
 	</g>
 	<g>
 		<g>
-			<circle cx="-153" cy="557.5" r="4.1"/>
-			<circle cx="-153" cy="536.6" r="4.1"/>
-			<circle cx="-159.9" cy="546.8" r="4.1"/>
-			<circle cx="-174.6" cy="546.8" r="4.1"/>
-			<circle cx="-167.3" cy="557.5" r="4.1"/>
-			<circle cx="-167.3" cy="536.6" r="4.1"/>
-			<circle cx="-181.6" cy="536.6" r="4.1"/>
+			<circle class = "tinycircle" cx="-153" cy="557.5" r="4.1"/>
+			<circle class = "tinycircle" cx="-153" cy="536.6" r="4.1"/>
+			<circle class = "tinycircle" cx="-159.9" cy="546.8" r="4.1"/>
+			<circle class = "tinycircle" cx="-174.6" cy="546.8" r="4.1"/>
+			<circle class = "tinycircle" cx="-167.3" cy="557.5" r="4.1"/>
+			<circle class = "tinycircle" cx="-167.3" cy="536.6" r="4.1"/>
+			<circle class = "tinycircle" cx="-181.6" cy="536.6" r="4.1"/>
 		</g>
 		<g>
-			<circle cx="-146.1" cy="546.8" r="4.1"/>
-			<circle cx="-131.4" cy="546.8" r="4.1"/>
-			<circle cx="-138.8" cy="557.5" r="4.1"/>
-			<circle cx="-138.8" cy="536.6" r="4.1"/>
-			<circle cx="-124.4" cy="536.6" r="4.1"/>
+			<circle class = "tinycircle" cx="-146.1" cy="546.8" r="4.1"/>
+			<circle class = "tinycircle" cx="-131.4" cy="546.8" r="4.1"/>
+			<circle class = "tinycircle" cx="-138.8" cy="557.5" r="4.1"/>
+			<circle class = "tinycircle" cx="-138.8" cy="536.6" r="4.1"/>
+			<circle class = "tinycircle" cx="-124.4" cy="536.6" r="4.1"/>
 		</g>
 	</g>
 	<g>
