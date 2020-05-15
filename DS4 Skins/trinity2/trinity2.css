@@ -29,8 +29,9 @@
     background-position-y: 55px;
 }
 
-.ds4.white .start {
-    transform: translate(0.5px);
+.ds4.white .start{
+    /*transform: translate(0.5px);*/
+	opacity: 0;
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/starttrinity2.svgz');
 }
 .ds4.white .back {
@@ -38,6 +39,7 @@
 }
 .ds4.white .start.pressed, .ds4 .back.pressed {
     border-radius: 50px;
+	opacity:1;
 }
 
 .ds4.white .touchpad{
