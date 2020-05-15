@@ -62,10 +62,6 @@
     background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/triggerstrinity2.svgz');
 }
 
-.ds4.white .trigger.pressed{
-    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/triggerstrinity2pressed.svgz');
-}
-
 .ds4.white .button.pressed  {
     filter: brightness(0.65);
 }
