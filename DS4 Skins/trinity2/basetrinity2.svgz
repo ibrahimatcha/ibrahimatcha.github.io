@@ -13,17 +13,17 @@
 	.st6{fill:#10c5cb;}
 	.st7{opacity:0.12;}
 	.st8{fill:url(#SVGID_5_);}
-	.st9{fill:#f7f7f7;}
+	.st9{fill:##047bc4;}
 	.st10{fill:#e3e3e3;}
 	.st11{fill:#f7f7f7;}
 	.st12{fill:#f7f7f7;}
 	.st13{fill:#e3e3e3;}
-	.st14{fill:#11CBD2;}
-	.st15{fill:#11CBD2;}
-	.st16{fill:#11CBD2;}
-	.st17{fill:#11CBD2;}
+	.st14{fill:##047bc4;}
+	.st15{fill:##047bc4;}
+	.st16{fill:##047bc4;}
+	.st17{fill:##047bc4;}
 	.st18{fill:#f7f7f7;stroke:#e3e3e3;stroke-width:2;stroke-miterlimit:10;}
-	.st19{fill:#11cbd2;}
+	.st19{fill:##047bc4;}
 	.st20{opacity:0.1;fill:#E6E6E6;enable-background:new    ;}
 	.st21{opacity:8.000000e-002;fill:url(#SVGID_6_);enable-background:new    ;}
 	.st22{opacity:0.22;enable-background:new    ;}
@@ -38,7 +38,7 @@
 	.st32{fill:#F7F7F7;}
 	.st33{display:inline;opacity:8.000000e-002;}
 	.circlehole{fill:#f7f7f7;}
-	.startandback{fill:#10c5cb;}
+	.startandback{fill:#047bc4;}
 	.tinycircle{fill:#f7f7f7;}
 	
 </style>
