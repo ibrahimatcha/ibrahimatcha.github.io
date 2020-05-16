@@ -3,6 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="750px"
 	 height="630.455px" viewBox="0 0 750 630.455" enable-background="new 0 0 750 630.455" xml:space="preserve">
+
+<style type="text/css">
+	.mainbody{fill:#f7f7f7;}
+</style>
+
 <g id="Layer_1">
 	<path class = "mainbody" d="M664.368,213.96c-6.72-16.682-20.542-20.877-21.818-22.003c-11.701-10.336-2.474-21.214-19.946-30.695
 		c-18.281-9.914-71.979-36.997-114.22-31.375c-9.225,1.235-27.837,17.608-41.214,17.608c-21.865,0-92.165,0-92.165,0
