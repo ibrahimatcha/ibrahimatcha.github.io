@@ -13,3 +13,7 @@
 .xbox .stick{
 	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/sticktrinityxbox.svgz');
 }
+
+.xbox .back, .xbox .start{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/start-selecttrinityxbox.svgz');
+}
