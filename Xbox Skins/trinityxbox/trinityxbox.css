@@ -17,3 +17,7 @@
 .xbox .back, .xbox .start{
 	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/start-selecttrinityxbox.svgz');
 }
+
+.xbox .quadrant{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/quadranttrinityxbox.svgz');
+}

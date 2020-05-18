@@ -5,8 +5,8 @@
 	 width="45px" height="45px" viewBox="0 0 45 45" enable-background="new 0 0 45 45" xml:space="preserve">
 <g>
 	<g>
-		<rect x="8.836" y="27.635" fill="#1A1A1A" width="8.538" height="8.529"/>
-		<path fill="#DEDEDE" d="M16.875,28.135v7.529H9.336v-7.529H16.875 M17.875,27.135H8.336v9.529h9.538V27.135L17.875,27.135z"/>
+		<rect x="8.836" y="27.635" fill="#f7f7f7" width="8.538" height="8.529"/>
+		<path fill="#11cbd2" d="M16.875,28.135v7.529H9.336v-7.529H16.875 M17.875,27.135H8.336v9.529h9.538V27.135L17.875,27.135z"/>
 	</g>
 	<g>
 		
@@ -24,17 +24,17 @@ ne6wrsG+nhR7vl/dRBwHGG9hsKA63Gc60g7zLcaHVHzdhGsHMrakTtPc0HvFzZo0G1NOoJZ66RGd
 RK5CYII=" transform="matrix(1 0 0 1 -1.3672 -1.6235)">
 		</image>
 		<g>
-			<rect x="8.836" y="8.836" fill="#FFFFFF" width="8.538" height="8.538"/>
-			<path fill="#DEDEDE" d="M16.875,9.336v7.538H9.336V9.336H16.875 M17.875,8.336H8.336v9.538h9.538V8.336L17.875,8.336z"/>
+			<rect x="8.836" y="8.836" fill="#0CC4D4" width="8.538" height="8.538"/>
+			<path fill="#11cbd2" d="M16.875,9.336v7.538H9.336V9.336H16.875 M17.875,8.336H8.336v9.538h9.538V8.336L17.875,8.336z"/>
 		</g>
 	</g>
 	<g>
-		<rect x="27.625" y="8.836" fill="#1A1A1A" width="8.538" height="8.538"/>
-		<path fill="#DEDEDE" d="M35.664,9.336v7.538h-7.538V9.336H35.664 M36.664,8.336h-9.538v9.538h9.538V8.336L36.664,8.336z"/>
+		<rect x="27.625" y="8.836" fill="#f7f7f7" width="8.538" height="8.538"/>
+		<path fill="#11cbd2" d="M35.664,9.336v7.538h-7.538V9.336H35.664 M36.664,8.336h-9.538v9.538h9.538V8.336L36.664,8.336z"/>
 	</g>
 	<g>
-		<rect x="27.625" y="27.635" fill="#1A1A1A" width="8.538" height="8.529"/>
-		<path fill="#DEDEDE" d="M35.664,28.135v7.529h-7.538v-7.529H35.664 M36.664,27.135h-9.538v9.529h9.538V27.135L36.664,27.135z"/>
+		<rect x="27.625" y="27.635" fill="#f7f7f7" width="8.538" height="8.529"/>
+		<path fill="#11cbd2" d="M35.664,28.135v7.529h-7.538v-7.529H35.664 M36.664,27.135h-9.538v9.529h9.538V27.135L36.664,27.135z"/>
 	</g>
 </g>
 <g>
