@@ -12,8 +12,8 @@
 		.dpadouter{fill:#11CBD2;}
 		.menuswitchinner{fill:#f7f7f7;stroke:#f7f7f7;}
 		.buttontext{fill:#11CBD2;}
-		.outeranalog{fill:#11CBD2;stroke:#f7f7f7;}
-		.inneranalog{fill:#0CC4D4;stroke:#f7f7f7;}
+		.outeranalog{fill:#0CC4D4;stroke:#f7f7f7;}
+		.inneranalog{fill:#11CBD2;stroke:#f7f7f7;}
 		.buttonfilling{fill:#f7f7f7;}
 		.innertop{fill:#11CBD2;}
 		.outertop{fill:#f7f7f7;}
