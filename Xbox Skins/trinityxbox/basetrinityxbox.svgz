@@ -6,14 +6,14 @@
 
 <style type="text/css">
 		.mainbody{fill:#f7f7f7;}
-		.buttonrings{fill:#0CC4D4;}
+		.buttonrings{fill:#f7f7f7;}
 		.dpadinner{fill:#11CBD2;}
 		.dpadmid{fill:#0CC4D4;}
 		.dpadouter{fill:#11CBD2;}
-		.menuswitchinner{fill:#f7f7f7;}
+		.menuswitchinner{fill:#f7f7f7;stroke:#f7f7f7;}
 		.buttontext{fill:#11CBD2;}
-		.outeranalog{fill:#11CBD2;}
-		.inneranalog{fill:#0CC4D4;}
+		.outeranalog{fill:#11CBD2;stroke:#f7f7f7;}
+		.inneranalog{fill:#0CC4D4;stroke:#f7f7f7;}
 		.buttonfilling{fill:#f7f7f7;}
 		.innertop{fill:#11CBD2;}
 		.outertop{fill:#f7f7f7;}
