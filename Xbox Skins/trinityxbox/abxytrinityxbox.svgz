@@ -5,10 +5,10 @@
 	 width="195.574px" height="96.744px" viewBox="0 0 195.574 96.744" enable-background="new 0 0 195.574 96.744"
 	 xml:space="preserve">
 <style type="text/css">
-		.buttonfilling{fill:#11CBD2;}
-		.buttonletters{fill:#f7f7f7;}
-		.buttonfillingpressed{fill:#0CC4D4;}
-		.buttonletterspressed{fill:#11CBD2;}
+		.buttonfilling{fill:#f7f7f7;}
+		.buttonletters{fill:#11cbd2;}
+		.buttonfillingpressed{fill:#11CBD2;}
+		.buttonletterspressed{fill:#0CC4D4;}
 		
 </style>
 <g>
