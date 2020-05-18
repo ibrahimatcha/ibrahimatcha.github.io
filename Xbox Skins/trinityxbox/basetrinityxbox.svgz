@@ -8,7 +8,7 @@
 		.mainbody{fill:#f7f7f7;}
 		.buttonrings{fill:#0CC4D4;}
 		.dpadinner{fill:#11CBD2;}
-		.dpadmid{fill:#0CC4D4;}
+		.dpadmid{fill:#f7f7f7;}
 		.dpadouter{fill:#11CBD2;}
 		.menuswitchinner{fill:#f7f7f7;stroke:#f7f7f7;}
 		.buttontext{fill:#11CBD2;}
