@@ -1,3 +1,7 @@
 .controller.xbox{
 	background: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/basetrinityxbox.svgz');
 }
+
+.xbox .button{
+	background: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/abxytrinityxbox.svgz');
+}
