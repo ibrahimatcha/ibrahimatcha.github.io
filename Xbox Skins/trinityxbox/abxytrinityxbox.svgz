@@ -8,7 +8,7 @@
 		.buttonfilling{fill:#f7f7f7;}
 		.buttonletters{fill:#11cbd2;}
 		.buttonfillingpressed{fill:#11CBD2;}
-		.buttonletterspressed{fill:#0CC4D4;}
+		.buttonletterspressed{fill:#f7f7f7;}
 		
 </style>
 <g>
