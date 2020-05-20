@@ -2,11 +2,11 @@
 	background: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/basehodge.svgz');
 }
 
-.ds4 .disconnected{
+.ds4.white .disconnected{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/disconnectedhodge.svgz');
 }
 
-.ds4 .touchpad{
+.ds4.white .touchpad{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/touchpadhodge.png');
 }
 
@@ -14,7 +14,7 @@
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/touchpadhodgepressed.png');
 }
 
-.ds4 .meta.pressed{
+.ds4.white .meta.pressed{
 	background: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/metahodge.svgz');
 }
 
@@ -22,6 +22,6 @@
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/starthodge.svgz');
 }
 
-.ds4.face{
+.ds4.white .face{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/dpadhodge.svgz');
 }
