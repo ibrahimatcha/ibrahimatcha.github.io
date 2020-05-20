@@ -1,3 +1,7 @@
-.controller.ds4{
+.controller.ds4.white{
 	background: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/basehodge.svgz');
+}
+
+.ds4 .disconnected{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/disconnectedhodge.svgz');
 }
