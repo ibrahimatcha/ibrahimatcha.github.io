@@ -18,10 +18,6 @@
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/metahodge.svgz');
 }
 
-.ds4 .start.pressed{
-	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/starthodge.svgz');
-}
-
-.ds4 .back.pressed{
+.ds4.white .back, .ds4 .start{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/starthodge.svgz');
 }
