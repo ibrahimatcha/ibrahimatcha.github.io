@@ -13,3 +13,7 @@
 .ds4.white .touchpad.pressed{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/touchpadhodgepressed.png');
 }
+
+.ds4 .meta{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/metahodge.svgz');
+}
