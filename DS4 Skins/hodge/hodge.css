@@ -5,3 +5,11 @@
 .ds4 .disconnected{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/disconnectedhodge.svgz');
 }
+
+.ds4 .touchpad{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/touchpadhodge.png');
+}
+
+.ds4 .touchpad .pressed{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/touchpadhodgepressed.png');
+}
