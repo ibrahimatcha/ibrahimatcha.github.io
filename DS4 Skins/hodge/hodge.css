@@ -21,3 +21,7 @@
 .ds4.white .back, .ds4 .start{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/starthodge.svgz');
 }
+
+.ds4.face{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/dpadhodge.svgz');
+}
