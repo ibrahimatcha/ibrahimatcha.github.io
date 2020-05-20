@@ -33,3 +33,11 @@
 .ds4.white .stick{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/stickshodge.svgz');
 }
+
+.ds4.white .bumper{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/bumperhodge.svgz');
+}
+
+.ds4.white .trigger{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/triggershodge.svgz');
+}
