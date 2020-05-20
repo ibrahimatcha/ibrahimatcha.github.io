@@ -14,6 +14,14 @@
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/touchpadhodgepressed.png');
 }
 
-.ds4 .meta{
+.ds4 .meta.pressed{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/metahodge.svgz');
+}
+
+.ds4 .start.pressed{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/starthodge.svgz');
+}
+
+.ds4 .back.pressed{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/hodge/starthodge.svgz');
 }
