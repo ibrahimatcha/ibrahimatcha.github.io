@@ -67,6 +67,6 @@
     transform: translateY(1px);
 }
 
-.ds4.white .disconnected{
-	background: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/disconnectedtrinity2.svgz');
+.ds4.white.disconnected{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinity2/disconnectedtrinity2.svgz');
 }
