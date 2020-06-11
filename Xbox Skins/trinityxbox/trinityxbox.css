@@ -30,6 +30,6 @@
 	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/bumpertrinityxbox.svgz');
 }
 
-.xbox .disconnected{
+.xbox.disconnected{
 	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityxbox/disconnectedtrinityxbox.svgz');
 }
