@@ -1,0 +1,39 @@
+.controller.ds4.white {
+	background: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/basetrinityrev2.svg');
+}
+
+.ds4.white .face {
+   background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/dpadtrinityrev2.svgz');
+}
+
+.ds4.white .stick {
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/stickstrinityrev2.svg');
+}
+
+.ds4.white .button {
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/facetrinityrev2.svgz');
+}
+
+.ds4.white .start {
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/starttrinityrev2.svgz');
+}
+
+.ds4.white .touchpad{
+	background: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/touchpadtrinityrev2.svgz');
+}
+
+.ds4.white .bumper{
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/bumpertrinityrev2.svgz');
+}
+
+.ds4.white .trigger{
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/triggerstrinityrev2.svgz');
+}
+
+.ds4 .meta.pressed{
+	background: none;
+}
+
+.ds4.white.disconnected{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/disconnectedtrinityrev2.svgz');
+}
