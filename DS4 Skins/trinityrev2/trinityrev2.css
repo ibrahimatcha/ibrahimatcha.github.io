@@ -18,6 +18,10 @@
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/starttrinityrev2.svgz');
 }
 
+.ds4.white .back {
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/starttrinityrev2.svgz');
+}
+
 .ds4.white .bumper{
     background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/trinityrev2/bumpertrinityrev2.svgz');
 }
@@ -27,6 +31,10 @@
 }
 
 .ds4 .meta.pressed{
+	background: none;
+}
+
+.ds4 .touchpad.pressed{
 	background: none;
 }
 
