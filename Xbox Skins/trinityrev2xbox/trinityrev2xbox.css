@@ -1,0 +1,35 @@
+.controller.xbox{
+	background: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/basetrinityxbox.png');
+}
+
+.xbox .button{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/abxytrinityxbox.svgz');
+}
+
+.xbox .face{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/dpadtrinityxbox.svgz');
+}
+
+.xbox .stick{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/sticktrinityxbox.svgz');
+}
+
+.xbox .back, .xbox .start{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/start-selecttrinityrev2xbox.svgz');
+}
+
+.xbox .quadrant{
+	background-image: none;
+}
+
+.xbox .trigger{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/triggertrinityxbox.svgz');
+}
+
+.xbox .bumper{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/bumpertrinityrev2xbox.svgz');
+}
+
+.xbox.disconnected{
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/disconnectedtrinityrev2xbox.svgz');
+}
