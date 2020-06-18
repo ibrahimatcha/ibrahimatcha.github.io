@@ -1,17 +1,17 @@
 .controller.xbox{
-	background: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/basetrinityxbox.png');
+	background: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/basetrinityrev2xbox.svg');
 }
 
 .xbox .button{
-	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/abxytrinityxbox.svgz');
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/abxytrinityrev2xbox.svgz');
 }
 
 .xbox .face{
-	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/dpadtrinityxbox.svgz');
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/dpadtrinityrev2xbox.svgz');
 }
 
 .xbox .stick{
-	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/sticktrinityxbox.svgz');
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/sticktrinityrev2xbox.svg');
 }
 
 .xbox .back, .xbox .start{
@@ -23,7 +23,7 @@
 }
 
 .xbox .trigger{
-	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/triggertrinityxbox.svgz');
+	background-image: url('https://ibrahimatcha.github.io/Xbox%20Skins/trinityrev2xbox/triggertrinityrev2xbox.svgz');
 }
 
 .xbox .bumper{
