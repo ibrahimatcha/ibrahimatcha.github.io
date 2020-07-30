@@ -35,7 +35,7 @@
 	background: none;
 }
 
-.ds4 .touchpad.pressed{
+.ds4.white .touchpad.pressed{
 	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/touchpadmaisie.svg');
 }
 
