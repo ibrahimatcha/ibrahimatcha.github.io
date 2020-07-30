@@ -1,0 +1,44 @@
+.controller.ds4.white {
+	background: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/basemaisie.svg'); 
+}
+
+.ds4.white .face {
+   background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/dpadmaisie.svg');
+}
+
+.ds4.white .stick {
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/sticksmaisie.svg');
+}
+
+.ds4.white .button {
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/facemaisie.svg');
+}
+
+.ds4.white .start {
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/startmaisie.svg');
+	background-position: -28px;
+}
+
+.ds4.white .back {
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/startmaisie.svg');
+}
+
+.ds4.white .bumper{
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/bumpermaisie.svg');
+}
+
+.ds4.white .trigger{
+    background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/triggersmaisie.svg');
+}
+
+.ds4 .meta.pressed{
+	background: none;
+}
+
+.ds4 .touchpad.pressed{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/touchpadmaisie.svg');
+}
+
+.ds4.white.disconnected{
+	background-image: url('https://ibrahimatcha.github.io/DS4%20Skins/maisie/disconnectedmaisie.svg');
+}
