@@ -1,17 +1,17 @@
 .controller.ds4.white {
-	background: url('http://127.0.0.1:8887/base.svg'); 
+	background: url('base.svg'); 
 }
 
 .ds4.white .face {
-   background-image: url('http://127.0.0.1:8887/dpad.svg');
+   background-image: url('dpad.svg');
 }
 
 .ds4.white .stick {
-    background-image: url('http://127.0.0.1:8887/sticks.svg');
+    background-image: url('sticks.svg');
 }
 
 .ds4.white .button {
-    background-image: url('http://127.0.0.1:8887/face.svg');
+    background-image: url('face.svg');
 }
 
 .ds4 .b{
@@ -19,20 +19,20 @@
 }
 
 .ds4.white .start {
-	background-image: url('http://127.0.0.1:8887/start.svg');
+	background-image: url('start.svg');
 	background-position: -28px;
 }
 
 .ds4.white .back {
-	background-image: url('http://127.0.0.1:8887/start.svg');
+	background-image: url('start.svg');
 }
 
 .ds4.white .bumper{
-    background-image: url('http://127.0.0.1:8887/bumper.svg');
+    background-image: url('bumper.svg');
 }
 
 .ds4.white .trigger{
-    background-image: url('http://127.0.0.1:8887/triggers.svg');
+    background-image: url('triggers.svg');
 }
 
 .ds4 .meta.pressed{
@@ -40,9 +40,9 @@
 }
 
 .ds4.white .touchpad.pressed{
-	background-image: url('http://127.0.0.1:8887/touchpad.svg');
+	background-image: url('touchpad.svg');
 }
 
 .ds4.white.disconnected{
-	background-image: url('http://127.0.0.1:8887/disconnected.svg');
+	background-image: url('disconnected.svg');
 }
